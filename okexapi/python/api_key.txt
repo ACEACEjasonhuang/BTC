@@ -1,0 +1,9 @@
+apikey = "15806c05-fdf1-40a0-8f92-8b6955beb956"
+secretkey = "5096C292CA27075C98814109395014B7"
+IP = ""
+备注名 = "okex_dataloader"
+权限 = "读取"
+
+api_key = "15806c05-fdf1-40a0-8f92-8b6955beb956"
+secret_key = "5096C292CA27075C98814109395014B7"
+passphrase = "#ACEsk18602"
